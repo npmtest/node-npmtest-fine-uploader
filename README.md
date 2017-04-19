@@ -1,4 +1,7 @@
-# test coverage for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fine-uploader.svg)](https://travis-ci.org/npmtest/node-npmtest-fine-uploader)
+# npmtest-fine-uploader
+
+#### test coverage for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fine-uploader.svg)](https://travis-ci.org/npmtest/node-npmtest-fine-uploader)
+
 #### Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.
 
 [![NPM](https://nodei.co/npm/fine-uploader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fine-uploader)
