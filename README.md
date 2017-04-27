@@ -1,6 +1,6 @@
 # npmtest-fine-uploader
 
-#### test coverage for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fine-uploader.svg)](https://travis-ci.org/npmtest/node-npmtest-fine-uploader)
+#### basic test coverage for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fine-uploader.svg)](https://travis-ci.org/npmtest/node-npmtest-fine-uploader)
 
 #### Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-fine-uploader/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-fine-uploader/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-fine-uploader/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-fine-uploader/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fine-uploader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fine-uploader/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-fine-uploader/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-fine-uploader/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fine-uploader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fine-uploader/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-fine-uploader/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-fine-uploader/build/coverage.html/index.html)
 
@@ -115,7 +115,8 @@
     },
     "title": "Fine Uploader",
     "types": "typescript/fine-uploader.d.ts",
-    "version": "5.14.2"
+    "version": "5.14.2",
+    "bin": {}
 }
 ```
 
